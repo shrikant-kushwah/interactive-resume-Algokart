@@ -54,8 +54,8 @@
       "summary": "Built a Swiggy-like food delivery platform using React, Redux Toolkit, and Tailwind CSS, featuring real-time restaurant listings and cart functionality. Integrated a Google Gemini-powered chatbot for live order support and personalized restaurant suggestions, reducing checkout drop-offs by 40%. Enhanced user experience by 70% with loading skeletons and achieved 50% faster load times using Vite for optimized performance.",
       "skills": ["React.js", "Redux", "Tailwind CSS", "Vite", "Google Gemini API", "JavaScript"],
       "links": {
-        "live": "https://tastico-food-delivery.vercel.app",
-        "github": "https://github.com/shrikant-kushwah/tastico"
+        "live": "https://tastico-app.vercel.app/",
+        "github": "https://github.com/shrikant-kushwah/Tastico-app"
       }
     },
     {
@@ -67,8 +67,8 @@
       "summary": "Built a full-stack e-learning platform using React.js, Redux, Express.js, and MongoDB, offering 250+ coding courses across 20+ programming languages. Integrated features like browser-based code editor, progress tracking, and certificate generation to boost learner engagement by 60%.",
       "skills": ["React.js", "Redux", "Express.js", "MongoDB", "Node.js", "JavaScript"],
       "links": {
-        "live": "https://edu-tech-platform.vercel.app",
-        "github": "https://github.com/shrikant-kushwah/edu-tech"
+        "live": "https://study-notion-iqpm.vercel.app/",
+        "github": "https://github.com/shrikant-kushwah/EduTech-Study-Notion"
       }
     }
   ]
