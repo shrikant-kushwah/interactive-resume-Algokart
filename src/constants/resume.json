@@ -1,0 +1,75 @@
+{
+  "name": "SHRIKANT KUSHWAH",
+  "title": "FULL STACK DEVELOPER",
+  "contact": {
+    "location": "Uttar Pradesh, India",
+    "phone": "+919929897437",
+    "email": "shrikant20052001@gmail.com",
+    "linkedin": "https://linkedin.com/in/shrikant-kushwah",
+    "github": "https://github.com/shrikant-kushwah"
+  },
+  "objective": "Aspiring Full (MERN) Stack Developer with experience in building responsive web apps using MongoDB, Express.js, React.js, and Node.js. Recognized in hackathons; skilled in RESTful APIs, JWT auth, Redux, and Tailwind CSS.",
+  "education": [
+    {
+      "id": 1,
+      "degree": "B.Tech in Electronics and Communication",
+      "institution": "Rustamji Institute of Technology",
+      "date": "Aug 2019 - July 2023",
+      "grade": "CGPA: 7.6/10"
+    },
+    {
+      "id": 2,
+      "degree": "12th Grade (State Board)",
+      "institution": "Shri Chandra Bhan Singh Inter College",
+      "date": "Apr 2017 - May 2018",
+      "grade": "Percentage: 75%"
+    }
+  ],
+  "allSkills": {
+    "frontend": ["React.js", "Next.js", "Redux", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap", "React Router", "Vite"],
+    "backend": ["Node.js", "Express.js", "MongoDB", "Bcrypt", "Redis", "Docker"],
+    "apis": ["RESTful APIs", "JWT Authentication", "Google Gemini API"],
+    "tools": ["Git", "GitHub", "VS Code", "Postman", "NPM", "Babel", "Webpack", "Netlify", "Vercel"]
+  },
+  "experiences": [
+    {
+      "id": 1,
+      "role": "Full Stack Developer (Hackathon Project)",
+      "company": "VibeCode India 2025 - Finalist",
+      "date": "Jul 2025",
+      "type": "Hackathon",
+      "summary": "Developed a full-stack web app that matches students with startup gigs, internships, and hackathons based on skill and availability. Achieved a 60% match accuracy during demo evaluations and reduced manual filtering effort by 70% through dynamic filtering and smart matchmaking.",
+      "skills": ["React.js", "Node.js", "Express.js", "MongoDB"],
+      "links": {
+        "live": "https://skill-to-startup-matcher.vercel.app",
+        "github": "https://github.com/shrikant-kushwah/skill-to-startup-matcher"
+      }
+    },
+    {
+      "id": 2,
+      "role": "Frontend Developer (Project)",
+      "company": "Tastico Food Delivery App",
+      "date": "2024",
+      "type": "Project",
+      "summary": "Built a Swiggy-like food delivery platform using React, Redux Toolkit, and Tailwind CSS, featuring real-time restaurant listings and cart functionality. Integrated a Google Gemini-powered chatbot for live order support and personalized restaurant suggestions, reducing checkout drop-offs by 40%. Enhanced user experience by 70% with loading skeletons and achieved 50% faster load times using Vite for optimized performance.",
+      "skills": ["React.js", "Redux", "Tailwind CSS", "Vite", "Google Gemini API", "JavaScript"],
+      "links": {
+        "live": "https://tastico-food-delivery.vercel.app",
+        "github": "https://github.com/shrikant-kushwah/tastico"
+      }
+    },
+    {
+      "id": 3,
+      "role": "Full Stack Developer (Project)",
+      "company": "Edu-Tech Learning Platform",
+      "date": "2024",
+      "type": "Project",
+      "summary": "Built a full-stack e-learning platform using React.js, Redux, Express.js, and MongoDB, offering 250+ coding courses across 20+ programming languages. Integrated features like browser-based code editor, progress tracking, and certificate generation to boost learner engagement by 60%.",
+      "skills": ["React.js", "Redux", "Express.js", "MongoDB", "Node.js", "JavaScript"],
+      "links": {
+        "live": "https://edu-tech-platform.vercel.app",
+        "github": "https://github.com/shrikant-kushwah/edu-tech"
+      }
+    }
+  ]
+}
